@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### FastStats
 
-You can use the [editor on GitHub](https://github.com/emisfera/emisfera.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Introduction:  I’ll let you into a small secret. The Quality-Shareware team is small. Each of us wears many different hats, and between us cover the roles of site management, product evaluation and review, promotional services, marketing, and the day-to-day tasks that seem to consume such large chunks of the working day. But once a month, regular as clockwork, we set aside around 3-4 hours to evaluate the previous month. A significant part of this is examining our web-site statistics; a gold-mine of useful information. Through the various facts and figures we can see who’s coming to our site, where they’re coming from, how they find us, how often they come back, and where they go on our site. We can see which pages are the most popular, who’s viewing them, when, and even with what operating system and browser. This information is invaluable. Our previous web-host included a ‘free’ stats package; it was updated in real time, and I could access it any time of the day, 7 days a week. There were just two problems; that the facts and figures were inaccurate and incorrect, and that the information that was provided just wasn’t enough. That’s when I started looking into other options.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first problem I came across was that many of the software packages that are out there needed to be installed on the server itself. As well as taking up precious disk space and being potentially difficult to install, there may be a whole load of other reasons why this might be a bad idea; it may adversely affect your server, your host might not even allow it, and there may even be compatability and security issues raised.
 
-### Markdown
+The beauty of FastStats 2.6 is that there’s nothing to install on your server; as long as you have access to your log files, that’s all you need. Add to this impressive processing speeds, ease of use and enough information to satisfy the most demanding of webmasters. Interested? Read on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features:  The generated reports broadly cover four main areas of information - visitor, referrer, access and technical. Each of these has a fairly comprehensive set of sub-sections, for instance Referrer Information includes referring domains, pages, individual page referrers, site entry pages, and search-engines phrases, keywords and performance. Within the software itself, the screen is split into two ‘frames’ - on the left there are the available report headings, while the information is displayed on the right. The interface is both simple and intuitive, yet surprisingly no use is made of the right click at all. There were two features however that I really appreciated. The first was the ability to print the currently selected report without having to play around with exporting features - a simple and useful feature. The second was the ability to jump to a selected URL from within the software; it then opens up your browser at the selected page - again simple, but a nice touch.
 
-```markdown
-Syntax highlighted code block
+The results can be exported in three different formats; Microsoft Word, HTML or comma delimited for spreadsheets. I was quite surprised that there was no simple text format, but the combination of options should be able to satisfy just about anyone.
 
-# Header 1
-## Header 2
-### Header 3
+One final thing worth mentioning - after using the software for some time, it soon becomes apparent that the author has really thought out the design of the interface. It is simple, without excess padding, and there are a fair number of ‘small features’ that add to the ease of use. Within the interface for example, each report heading has its own icon - and each one actually means something, as opposed to just being artistic. Charts and graphs can instantly be recognised, as can errors and pages - another example of a small point that makes a difference.
 
-- Bulleted
-- List
+Problems:  There were two main problem areas that we came across in the testing. The first is that while the reports are easily viewed from within the software, the exported versions (particularly the HTML report) is quite unwieldy and difficult to navigate. There is no use of bookmarks or hyperlinks within the single document, and there is almost no room for customisation - items cannot be excluded or ordered at your own discretion. Also the Microsoft Word format actually needs Word 97 to be installed on your machine. It won’t work with Word 7 or earlier versions, and you can’t export the file and then import it into your own word processor, as you actually need Word 97 installed to generate this report. The second minor area of criticism concerns the diagrams and charts within the software itself. These are excellent, and well-used, but there is no control of sizes of images or fonts. If your pie chart has a fairly large number of components, you may find it impossible to distinguish one from the other, as the font may be too small to pick out the detail. All illustrations can also be displayed as charts as well though, so although you may lose out on the graph, you can still read the data itself.
 
-1. Numbered
-2. List
+An excellent (context sensitive) help file is supported by free e-mail support for registered and non-registered users alike.
 
-**Bold** and _Italic_ and `Code` text
+Use of this software requires you to have access to your server’s log files. The size of these will vary considerably from site to site, and will also depend on the amount of traffic that you receive; even a small site with a few thousand visitors a month can generate files in excess of 25 MB. Assuming that you have the time to obtain these files, running them through FastStats is an extremely worthwhile experience! The amount of useful information presented is quite extraordinary; having used two different packages included by different web-hosts, the information that you get through this software is at least as detailed, and probably considerably better. The software excels both in ease of use and speed of processing data, and competes head-on with the competition in terms of price too. FastStats is available as a 25-day download; we strongly advise any webmaster with or without a current stats package to try it out. We’re certainly sticking with it.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emisfera/emisfera.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+&nbsp;
