@@ -6,6 +6,14 @@ The first problem I came across was that many of the software packages that are 
 
 The beauty of FastStats 2.6 is that there’s nothing to install on your server; as long as you have access to your log files, that’s all you need. Add to this impressive processing speeds, ease of use and enough information to satisfy the most demanding of webmasters. Interested? Read on.
 
+### Promotional Service
+
+When dealing with promotional sites, many might be concerned about the reliability of involving site. But, rest assured,   [soundcloudpromotions.com/](http://soundcloudpromotions.com) is one hundred percent legitimate. 
+
+
+
+Unlike many promotional sites, this site brings real followers, with the mind set to target followers who are like minded, and who fit into a wide variety of categories and genres of music.
+
 Features:  The generated reports broadly cover four main areas of information - visitor, referrer, access and technical. Each of these has a fairly comprehensive set of sub-sections, for instance Referrer Information includes referring domains, pages, individual page referrers, site entry pages, and search-engines phrases, keywords and performance. Within the software itself, the screen is split into two ‘frames’ - on the left there are the available report headings, while the information is displayed on the right. The interface is both simple and intuitive, yet surprisingly no use is made of the right click at all. There were two features however that I really appreciated. The first was the ability to print the currently selected report without having to play around with exporting features - a simple and useful feature. The second was the ability to jump to a selected URL from within the software; it then opens up your browser at the selected page - again simple, but a nice touch.
 
 The results can be exported in three different formats; Microsoft Word, HTML or comma delimited for spreadsheets. I was quite surprised that there was no simple text format, but the combination of options should be able to satisfy just about anyone.
